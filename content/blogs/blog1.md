@@ -11,6 +11,9 @@ slug: ipsum
 title: Family, Books & Music
 ---
 
+I have 43 cousins, 24 uncles and and 2 sisters. Family has always been of the
+utmost importance for me and because of that I want to return to Portugal after
+the Masters programme at LBS.
 I have always been an avid reader. I have been reading a lot about finance. 
 However, I have a great interest in politics (namely political science),
 astronomy, chemistry and biology. Regarding to music, I enjoy classical music

@@ -51,13 +51,6 @@ disqusShortname = ""
       name = "My life"
       url = "blogs"
 
-    [[params.navigation.links]]
-      name = "Family, Music and Books"
-      url = "blogs/ipsum"#
-
-    [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"#
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -98,7 +91,7 @@ disqusShortname = ""
       url = "blogs/aliquam"
 
     [[params.tiles.showcase]]
-      title = "Travel"
+      title = "Travelling"
       subtitle = "Countries visited"
       image = "pic02.jpg"
       url = "blogs/tempus"
