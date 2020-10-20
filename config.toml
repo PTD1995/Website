@@ -20,7 +20,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "Pedro"
-  description = "Portuguese"
+  description = "Portuguese student at London Business School"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -33,12 +33,12 @@ disqusShortname = ""
   # 404 error customization
   [params.error404]
     heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
+    text = "Please try another page"
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Pedro Teixeira Duarte"
+    subtitle = "A genuine Portuguese individual"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -48,16 +48,16 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
+      name = "My life"
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "blogs/ipsum"
+      name = "Family, Music and Books"
+      url = "blogs/ipsum"#
 
     [[params.navigation.links]]
       name = "Elements"
-      url = "elements.html"
+      url = "elements.html"#
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -81,9 +81,9 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Forty"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
-    buttonText = "Get Started"
+    title = "Hello, Pedro here. Nice meeting you!"
+    subtitle = "This website represents a little bit of my personality. Hope you enjoy it!"
+    buttonText = "Let's travel together"
 
 
   # Tiles Section
@@ -92,38 +92,38 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Sports"
+      subtitle = "What I have practiced in the past"
       image = "pic01.jpg"
       url = "blogs/aliquam"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Travel"
+      subtitle = "Countries visited"
       image = "pic02.jpg"
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
+      title = "Goals"
+      subtitle = "What I desire for the future"
       image = "pic03.jpg"
       url = "blogs/magna"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
+      title = "Family & Friends"
+      subtitle = "People who changed my life"
       image = "pic04.jpg"
       url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Music"
+      subtitle = "What I enjoy listening"
       image = "pic05.jpg"
       url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Books"
+      subtitle = "My favorite readings"
       image = "pic06.jpg"
       url = "blogs/ipsum"
     # You can make more showcases by copy and pasting the code above
@@ -138,12 +138,11 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    title = "A blog about a Portuguese guy living in London"
+    subtitle = """Hey there! I am Pedro. I am 25 years old and I come from Lisbon, Portugal. 
+    This is the first time living abroad and, in this website, I would like to share with you 
+    some information about me. Hopefully, you will get to know me a little bit better! Have fun!
+  """
     buttonText = "Get Started"
     url = "blogs"
 
@@ -172,50 +171,50 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "pedrot.mfa2021@london.edu"
 
     [[params.contact.phone]]
-    title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    title = "Telephone Number"
+    phone = "(+351) 918330399"
 
     [[params.contact.address]]
     title = "Address"
-    street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    street = "Rua José Ferrão Castelo Branco, 47"
+    city = "Lisbon, Oeiras, Paço de Arcos"
+    country = "Portugal"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "Pedro Teixeira Duarte"
 
     # Uses font awesome icons
     [[params.footer.social]]
       icon = "fa-twitter"
-      url= "https://www.twitter.com"
+      url= "https://twitter.com/pedrotduarte"
       label = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com"
+      url= "https://www.facebook.com/p.teixeiraduarte/"
       label = "Facebook"
 
     [[params.footer.social]]
       icon = "fa-instagram"
-      url= "https://www.instagram.com"
+      url= "https://www.instagram.com/pedro_td/"
       label = "Instagram"
     
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com"
+      url= "https://github.com/PTD1995"
       label = "GitHub"
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
+      url= "https://www.linkedin.com/in/pedrotd/"
       label = "LinkedIn"
 
-    [[params.footer.quicklinks]]
+   [[params.footer.quicklinks]]
       text = "Design: "
       url= "https://www.html5up.net"
-      alt = "HTML5 UP"
+      alt = "Data Analytics for Finance"
