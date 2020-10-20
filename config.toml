@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://websitepedrotd.netlify.app/"
 languageCode = "en-us"
-title = "Forty"
+title = "Portuguese Website of Pedro"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "Pedro"
+  description = "Portuguese"
 
   # Link custom assets relative to /static
   custom_css = []
